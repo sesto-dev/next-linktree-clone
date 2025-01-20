@@ -8,9 +8,8 @@ const vazirmatn = Vazirmatn({
 });
 
 export const metadata = {
-  title: "My Linktree Clone",
-  description:
-    "A simple Linktree-like page built with Next.js and Tailwind CSS",
+  title: "گروه هنریا و Taranet",
+  description: "فعال در بازار های مالی و تکنولوژی",
 };
 
 export default function RootLayout({

@@ -11,7 +11,10 @@ const profile = {
       title: "خرید بلیط رویداد حضوری",
       url: "https://evand.com/events/algotrading-networking",
     },
-    { title: "LinkedIn", url: "https://linkedin.com/company/henria" },
+    {
+      title: "(اگر لینک بالا ☝️ برای شما باز نشد) - اکانت تلگرام پشتیبانی",
+      url: "https://t.me/Iamtaranet27",
+    },
   ],
 };
 
